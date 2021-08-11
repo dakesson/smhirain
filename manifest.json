@@ -1,0 +1,10 @@
+{
+  "domain": "smhirain",
+  "name": "Smhi Rain",
+  "version": "0.0.1",
+  "documentation": "https://github.com/dakesson/smhirain",
+  "issue_tracker": "https://github.com/dakesson/smhirain",
+  "codeowners": ["@dakesson"],
+  "quality_scale": "silver",
+  "iot_class": "cloud_polling"
+}
